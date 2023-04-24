@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+*{
+    font-family: 'Itim', cursive;
+}
+
+*{
+    margin: 0%;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #FAB831;
+    padding: 40PX 40PX;
+}
+
+.indice {
+    display: flex;
+    align-items: center;
+}
+
+.indice>p {
+    font-size: 20px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu>a{
+    display: flex;
+    padding-right: 20px;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.phone {
+    display: flex;
+    align-items: center;
+}
+
+.carr {
+    display: flex;
+    align-items: center;
+}
+
+.pet {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FAB831;
+    padding-left: 120px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.text>p {
+    padding-top: 40px;
+    font-size: 20px;
+}
+
+.text>a{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    background-color: #F53C3C;
+    border-radius: 40px;
+    font-size: 20px;
+    padding: 20px 40px;
+    margin-top: 40px;
+    width: 125px;
+}
+
+h2 {
+    font-size: 40px;
+    padding-left: 120px;
+    padding-top: 100px;
+}
+
+.benefit {
+    display: flex; 
+    padding-top: 60px 120px 60px 120px;
+}
+
+.three {
+    display: flex;
+    justify-content: space-between ;
+    padding: 100px 40px;
+    margin-left: 80px;
+}
+
+.animals {
+    background-color: #FCF9E5;
+}
+
+.but {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.but>a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    border-color: black;
+    border-style: solid;
+    border-radius: 40px;
+    width: 125px;
+    text-align: center;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px 100px;
+}
+
+.photos {
+    display: flex;
+    justify-content: center;
+    padding: 40px 80px;
+}
+
+
+.friends {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 50px;
+}
+
+.hour>p{
+    padding-left: 120px;
+    font-size: 25px;
+}
+
+.formulario {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h3 {
+    font-size: 40px;
+    padding-top: 80px;
+    padding-left: 120px;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+
+.data>p {
+    font-size: 20px;
+    color: #FFFFFF;
+    padding-top: 120px;
+    padding-left: 120px;
+}
+
+.data>.hr{
+    display: flex;
+    padding-top: 120px;
+}
